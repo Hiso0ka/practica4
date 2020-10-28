@@ -1,0 +1,40 @@
+body {
+    background-color: #FDD7D0;
+    
+}
+
+h1  {
+    text-align: center;
+    color: #5C1318;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+img.carta {
+    width: 250px;
+}
+
+img.cafe {
+    width: 200px;
+}
+
+img.contacto {
+    width: 150px;
+}
+
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a.cafe {
+    margin-left: 650px;
+}
+
+a.contacto {
+    margin-left: 1200px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+}
